@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scipy
+google-cloud-storage
+pyspark
+requests
+beautifulsoup4
+langchain
+openai
+

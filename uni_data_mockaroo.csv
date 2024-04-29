@@ -1,0 +1,1001 @@
+UNI_ID,UNIVERSITY NAME,GMAT,IELTS,TOEFL,SCHOLARSHIP_AVAILABILITY,TOTAL_STUDENTS,INTERNATIONAL_STUDENTS,TOTAL_FACULTY,SUSTAINABILITY_RANK
+1,Massachusetts Institute of Technology (MIT),793,7,95,TRUE,42182,3331,3076,439
+2,University of Oxford,529,6,106,FALSE,15635,4602,3196,87
+3,Stanford University,524,7,106,FALSE,31118,7703,974,969
+4,University of Cambridge,671,9,89,FALSE,43670,3498,2756,968
+5,Harvard University,505,7,91,TRUE,20041,3248,1089,256
+6,California Institute of Technology (Caltech),525,7,92,TRUE,84799,4844,3108,280
+7,Imperial College London,733,6,89,TRUE,71107,2556,1814,416
+8, ETH Zurich,545,9,114,FALSE,89205,3882,3700,560
+9,UCL,508,6,109,FALSE,22647,3128,1824,508
+10,University of Chicago,554,6,86,TRUE,11296,7892,2127,11
+11,National University of Singapore (NUS),712,8,93,FALSE,42936,2215,2643,536
+12,Nanyang Technological University Singapore (NTU Singapore),699,7,110,FALSE,94317,3885,3040,307
+13,University of Pennsylvania,761,8,115,FALSE,75129,6806,2036,623
+14,EPFL,797,6,94,TRUE,11560,2972,2726,489
+15,Yale University,592,6,95,TRUE,11322,5083,1187,273
+16, The University of Edinburgh,504,8,107,FALSE,30971,4748,3200,631
+17,Tsinghua University,710,8,119,FALSE,101176,2365,3050,810
+18, Peking University,782,9,108,FALSE,111606,5236,1230,336
+19,Columbia University,753,8,120,TRUE,13002,5279,1987,925
+20, Princeton University,736,7,91,TRUE,57652,2456,2766,318
+21,Cornell University,696,8,111,TRUE,108364,5714,3136,445
+22,The University of Hong Kong,513,6,100,FALSE,15761,4149,985,841
+23,The University of Tokyo,732,7,86,FALSE,11069,2664,3645,19
+24,University of Michigan-Ann Arbor,539,9,92,FALSE,46222,2827,3422,971
+25,Johns Hopkins University,627,6,85,FALSE,30988,6602,2482,766
+26,University of Toronto,751,7,101,FALSE,12949,7641,3225,984
+27,McGill University,725,7,111,FALSE,30684,3556,3952,620
+28,Australian National University (ANU),745,8,97,TRUE,22323,4447,1882,845
+29,The University of Manchester,676,8,106,FALSE,111204,6371,1237,648
+30,Northwestern University,758,7,115,TRUE,84703,6010,3089,731
+31,Fudan University,609,6,108,TRUE,28139,7045,1106,59
+32,University of California Berkeley (UCB),579,6,112,TRUE,79618,2400,3174,762
+33,Kyoto University,689,8,93,FALSE,20908,6535,3425,758
+34,The Hong Kong University of Science and Technology,593,9,101,FALSE,107595,7473,1494,155
+35,King's College London,602,8,104,FALSE,44621,4784,3389,881
+36,Seoul National University,662,8,119,FALSE,98715,2993,2790,583
+37,The University of Melbourne,695,8,120,FALSE,95924,6646,1251,674
+38,The University of Sydney,569,7,108,TRUE,119750,6624,2027,740
+39,The Chinese University of Hong Kong (CUHK),616,6,110,FALSE,119322,4385,3304,453
+40,"University of California, Los Angeles (UCLA)",714,9,113,TRUE,15889,6015,3087,290
+41,KAIST - Korea Advanced Institute of Science & Technology,555,6,111,TRUE,72803,4032,2091,795
+42,New York University (NYU),503,8,103,TRUE,71333,6725,2960,629
+43, The University of New South Wales (UNSW Sydney),610,9,117,FALSE,110834,6950,2996,183
+44,Université PSL,572,6,117,FALSE,79473,2521,3586,314
+45,Zhejiang University,778,6,108,FALSE,90571,5121,3632,152
+46,University of British Columbia,665,6,114,TRUE,38065,4280,1153,210
+47,The University of Queensland,725,7,101,FALSE,14053,5586,2315,286
+48,San Diego (UCSD),718,9,99,TRUE,39727,2317,3177,886
+49,Institut Polytechnique de Paris,658,9,96,FALSE,50176,3333,1073,805
+50,The London School of Economics and Political Science (LSE),575,9,100,TRUE,30559,2964,1632,257
+51,Shanghai Jiao Tong University,589,7,119,FALSE,107961,2954,1913,377
+52,Technical University of Munich,618,8,115,TRUE,55317,2647,2856,262
+53,Duke University,653,8,89,TRUE,91104,7833,3593,915
+54,Carnegie Mellon University,565,6,99,FALSE,71759,4212,2285,376
+55,City University of Hong Kong,598,6,100,TRUE,89143,2320,1238,253
+56,University of Amsterdam,580,9,110,TRUE,78535,7917,1225,51
+57,Tokyo Institute of Technology (Tokyo Tech),618,9,106,FALSE,44101,5082,3044,542
+58,Delft University of Technology,580,6,116,TRUE,61169,3417,3727,834
+59,Monash University,530,8,96,FALSE,22282,6713,3466,720
+60,Brown University,791,9,105,TRUE,112728,7760,2729,128
+61,The University of Warwick,639,9,105,FALSE,109732,7188,1891,680
+62,University of Bristol,597,9,99,TRUE,117792,7410,1586,13
+63,Universität Heidelberg,748,6,98,TRUE,106463,3886,3615,802
+64,Ludwig-Maximilians-Universität München,518,6,98,FALSE,54726,5815,1413,609
+65,Universiti Malaya (UM),753,8,107,FALSE,62999,5995,1894,104
+66,The Hong Kong Polytechnic University,776,6,93,FALSE,104730,6974,2413,875
+67,University of Texas at Austin,665,6,119,TRUE,76106,5049,3918,880
+68,National Taiwan University (NTU),621,8,88,FALSE,29633,4093,2189,75
+69, Universidad de Buenos Aires (UBA),795,8,93,FALSE,25408,3594,3091,230
+70,KU Leuven,574,9,120,FALSE,109134,2778,2984,537
+71,University of Zurich,754,8,115,FALSE,104092,4858,2195,928
+72,Sorbonne University,786,8,85,FALSE,24470,2813,2122,185
+73,University of Glasgow,513,6,99,TRUE,111890,5449,1053,956
+74,Korea University,737,6,114,TRUE,68461,3816,1503,431
+75,Osaka University,786,6,92,FALSE,62803,6599,3672,353
+76,University of Wisconsin-Madison,632,9,98,TRUE,92938,6320,3161,348
+77,University of Southampton,584,9,119,FALSE,36099,6951,2608,891
+78,Lomonosov Moscow State University,590,8,115,FALSE,53881,5321,951,703
+79,University of Copenhagen ,543,6,107,FALSE,106751,2018,2577,125
+80,Yonsei University,693,7,119,TRUE,101227,6438,3594,231
+81, Pohang University of Science And Technology (POSTECH),505,9,114,FALSE,95089,3673,1022,434
+82,Durham University,557,8,108,TRUE,18350,6425,987,99
+83,Tohoku University,622,9,94,TRUE,17156,6144,1191,138
+84,University of Illinois at Urbana-Champaign,557,8,101,TRUE,33512,2449,3762,240
+85,The University of Auckland,501,6,85,FALSE,98595,2318,991,565
+86,University of Washington,741,6,113,FALSE,48500,6662,1550,751
+87,Université Paris-Saclay,693,7,105,TRUE,52096,7201,1174,288
+88,Lund University,520,8,97,FALSE,99161,2932,1350,278
+89,Georgia Institute of Technology,715,9,109,FALSE,73047,4615,1796,857
+90, KTH Royal Institute of Technology,618,9,85,FALSE,118256,3241,1590,899
+91,University of Birmingham,523,6,109,TRUE,111645,7079,905,9
+92,University of St Andrews,678,8,113,FALSE,80484,5250,2984,813
+93,University of Leeds,545,7,103,TRUE,93508,7624,1606,146
+94,The University of Western Australia,755,8,87,FALSE,114878,7857,3518,800
+95,Rice University,592,7,102,TRUE,117516,7258,1245,103
+96,The University of Sheffield,545,6,86,TRUE,94454,5791,2106,298
+97,Pennsylvania State University,711,6,90,TRUE,32390,2695,3161,945
+98,Sungkyunkwan University (SKKU),600,7,95,FALSE,90612,6081,1536,855
+99, University of Science and Technology of China,595,9,99,TRUE,109037,7501,1765,666
+100,Technical University of Denmark,561,8,103,TRUE,27736,5745,1729,61
+101,University of North Carolina at Chapel Hill,627,8,115,TRUE,46304,5228,2899,959
+102,Trinity College Dublin,586,7,95,FALSE,116182,2645,1301,119
+103,The University of Dublin,659,8,104,FALSE,23504,6402,2611,95
+104,University of Oslo,609,7,101,TRUE,92321,6766,2917,37
+105,University of Nottingham,614,8,107,FALSE,99885,4542,3254,358
+106,University of Helsinki,587,7,118,TRUE,70966,3660,3547,86
+107,Universidad Nacional Autónoma de México (UNAM),766,9,101,TRUE,66737,6878,3179,97
+108,University of Geneva,583,6,98,FALSE,84455,6201,1251,618
+109,Washington University in St. Louis,582,6,85,TRUE,85157,3290,3113,912
+110,The University of Adelaide,503,7,117,TRUE,41565,4470,3277,201
+111,University of California,727,8,108,TRUE,26467,7945,1656,527
+112,King Abdulaziz University (KAU),754,7,103,TRUE,35134,6045,3091,251
+113,Utrecht University,698,7,106,FALSE,81310,2296,2404,504
+114, Université de Montréal,575,6,85,FALSE,36265,2208,2428,21
+115,Aalto University,643,6,94,TRUE,62249,4795,915,254
+116,Boston University,665,8,93,FALSE,18528,6740,2280,817
+117,Leiden University,655,7,114,FALSE,76471,6000,2100,211
+118,University of Southern California,639,6,104,FALSE,100505,3080,3673,630
+119,Purdue University,745,7,117,TRUE,24138,5190,2215,372
+120,Queen Mary University of London,582,9,99,FALSE,108318,2609,2544,626
+121, Nagoya University,561,8,90,TRUE,33465,2047,2454,421
+122,University of Bern,639,7,95,FALSE,72442,3891,3624,305
+123,The Ohio State University,638,6,116,TRUE,55532,6630,1704,521
+124,Chalmers University of Technology,703,8,105,TRUE,111862,4133,2563,285
+125,Universidade de São Paulo,749,9,107,FALSE,97817,5300,3375,409
+126,Wageningen University & Research,532,7,85,FALSE,21596,7930,1901,670
+127,Uppsala University,704,9,119,TRUE,32565,2021,3747,822
+128, Eindhoven University of Technology,580,8,106,FALSE,58927,3898,2493,717
+129,University of Alberta,667,9,98,FALSE,22779,3881,2087,649
+130,Freie Universitaet Berlin,587,6,90,FALSE,93053,4948,3595,411
+131,Humboldt-Universität zu Berlin,690,9,98,FALSE,113358,6819,2517,46
+132,University of Groningen,554,9,119,TRUE,99291,2140,2965,467
+133,École Normale Supérieure de Lyon,725,8,104,FALSE,54765,3582,2553,858
+134,Nanjing University,572,8,86,FALSE,104035,3600,1038,126
+135,Lancaster University,633,6,110,TRUE,110469,5004,1444,661
+136,University of Technology Sydney,622,7,118,TRUE,11988,7141,2048,998
+137,Newcastle University,681,6,106,FALSE,21886,4127,3724,163
+138,Pontificia Universidad Católica de Chile (UC),703,9,120,TRUE,20302,7510,1412,500
+139,"KIT, Karlsruhe Institute of Technology",670,8,117,FALSE,45848,4160,2059,849
+140,Kyushu University,707,7,94,FALSE,75623,7279,2190,408
+141,University of Basel,698,6,97,FALSE,16150,3996,1831,124
+142,McMaster University,700,9,96,FALSE,42446,6694,1248,480
+143,Ghent University,702,6,85,TRUE,36938,2299,3107,699
+144,Politecnico di Milano,662,8,112,FALSE,116204,4299,1096,449
+145,Universiti Putra Malaysia (UPM),610,8,115,FALSE,28392,6454,3908,824
+146,Universiti Kebangsaan Malaysia (UKM),506,6,116,FALSE,16362,6054,2814,572
+147,Hokkaido University,513,7,85,TRUE,12545,7610,958,362
+148,"University of California, Santa Barbara (UCSB)",723,6,100,TRUE,76943,2701,970,410
+149,Universiti Sains Malaysia (USM),592,6,110,FALSE,94895,2548,3459,26
+150,Stockholm University,781,8,118,FALSE,50819,3652,2661,586
+151,University of Exeter,649,6,119,TRUE,19576,5317,2995,729
+152,University of Waterloo,682,7,85,TRUE,58964,6198,1666,715
+153,Cardiff University,681,7,110,TRUE,104725,4521,1433,738
+154,University of Vienna,620,9,89,TRUE,43894,2756,1465,733
+155,University of York,648,8,96,TRUE,39246,5932,2764,389
+156,University of Rochester,633,9,90,TRUE,42784,6985,1506,774
+157,Aarhus University,785,8,85,TRUE,94994,3678,2302,555
+158,Hanyang University,504,9,94,FALSE,81662,7983,1941,134
+159,Michigan State University,552,8,99,TRUE,65833,4443,2369,102
+160," University of Maryland, College Park",572,9,99,TRUE,96258,4730,3787,763
+161,Technische Universität Berlin (TU Berlin),610,6,108,TRUE,49468,7863,1901,5
+162,Emory University,784,7,118,FALSE,50239,2184,996,876
+163,Case Western Reserve University,625,6,101,FALSE,80509,6436,3575,188
+164,Tecnológico de Monterrey,624,6,110,FALSE,75214,2013,2306,165
+165,King Fahd University of Petroleum & Minerals,781,8,107,TRUE,54736,7574,2401,427
+166,University of Pittsburgh,519,6,100,FALSE,25204,7807,1866,219
+167,RWTH Aachen University,777,8,104,FALSE,12073,2657,3489,862
+168,Alma Mater Studiorum - University of Bologna,501,8,112,FALSE,84819,3723,3858,599
+169,University of Bath,568,8,103,TRUE,69723,2727,1739,315
+170,Texas A&M University,789,9,90,TRUE,56408,5029,3697,547
+171,Universitat de Barcelona,757,9,85,TRUE,79847,5045,3186,238
+172,Western University,750,7,85,TRUE,108515,5494,1630,333
+173,Sapienza University of Rome,605,7,88,TRUE,39379,6721,3892,781
+174,Albert-Ludwigs-Universitaet Freiburg,616,9,105,TRUE,80450,2297,3733,896
+175,University College Dublin,543,6,111,TRUE,102613,4104,1230,241
+176,University of Florida,536,6,89,TRUE,66851,3269,2331,650
+177,Al-Farabi Kazakh National University,615,7,105,TRUE,80531,4414,1922,450
+178,University of Lausanne,613,7,113,TRUE,66334,7888,1204,926
+179,Eberhard Karls Universität Tübingen,685,8,89,TRUE,109207,4011,2426,215
+180,Indian Institute of Technology Bombay (IITB),577,9,86,FALSE,100768,7360,1618,90
+181,Erasmus University Rotterdam,620,8,100,TRUE,49067,6825,1783,885
+182,National Tsing Hua University,698,7,91,FALSE,113531,7794,2788,272
+183,Technische Universität Wien,772,7,98,FALSE,31730,4287,1029,80
+184,University of Gothenburg,518,9,105,FALSE,70224,6492,2514,643
+185,Khalifa University,775,8,105,FALSE,89451,5374,1394,681
+186,Universidad de Chile,741,7,119,TRUE,91480,6626,1273,198
+187,Indian Institute of Technology Delhi (IITD),641,8,91,TRUE,23306,5167,3313,948
+188,Indian Institute of Science,562,7,118,FALSE,48225,5424,2250,297
+189,University of Minnesota Twin Cities,688,7,120,FALSE,106595,3027,2050,652
+190,Université catholique de Louvain (UCLouvain),612,6,118,FALSE,10442,6372,2354,130
+191, University of Liverpool,527,7,119,FALSE,57468,4507,2597,882
+192, University of Twente,739,9,97,FALSE,112145,4148,1013,684
+193,Dartmouth College,780,8,111,TRUE,62744,7996,1035,613
+194,Universiti Teknologi Malaysia,670,9,95,TRUE,62565,3803,3454,204
+195,University of Wollongong,649,9,100,FALSE,33190,5178,3990,806
+196,Curtin University,677,8,109,FALSE,17838,3221,2371,616
+197,Technische Universität Dresden,724,9,94,TRUE,19444,7671,3883,768
+198,University of Otago,609,8,96,TRUE,97062,7540,1067,246
+199,The University of Newcastle,592,8,118,FALSE,44706,3299,3866,516
+200,Australia (UON),600,6,88,FALSE,83456,2633,2742,88
+201,The Hebrew University of Jerusalem,674,8,106,FALSE,20442,4897,2227,381
+202,University of Bergen,789,7,88,TRUE,26861,7798,3332,84
+203,Macquarie University,612,8,106,FALSE,98190,7026,1370,514
+204,Keio University,766,8,103,FALSE,100064,3767,984,447
+205,University of Reading,790,8,108,TRUE,65388,3859,1128,338
+206,Waseda University,614,6,112,FALSE,31431,5666,2567,78
+207,University of Göttingen,574,9,92,FALSE,60214,6057,1708,657
+208,University of Aberdeen,604,8,114,TRUE,116761,7481,3570,897
+209,RMIT University,673,9,104,TRUE,44245,6064,3933,139
+210,Universidad Autónoma de Madrid,717,6,88,FALSE,107233,6293,2324,293
+211,Universite libre de Bruxelles,625,6,104,TRUE,34425,3975,1103,390
+212,Universitat Autònoma de Barcelona,666,8,118,FALSE,22706,2850,1504,843
+213,Vrije Universiteit Amsterdam,636,9,109,FALSE,66179,5199,3378,950
+214, Tongji University,657,8,96,TRUE,83904,6288,3171,70
+215,Ulsan National Institute of Science and Technology (UNIST),705,9,112,TRUE,83013,5244,2736,573
+216,Queensland University of Technology (QUT),729,7,100,TRUE,80092,5867,3130,236
+217,Universität Hamburg,785,9,100,FALSE,88234,3572,3383,979
+218,Chulalongkorn University,783,6,98,TRUE,94669,4694,2966,313
+219,Arizona State University,724,6,120,FALSE,62029,4923,3259,209
+220,Queen's University Belfast,660,9,87,FALSE,109156,5857,1328,207
+221,Vanderbilt University,668,9,89,FALSE,119544,6561,3961,375
+222,Universidade Estadual de Campinas (Unicamp),557,9,102,TRUE,39523,6842,1404,746
+223,Radboud University,696,6,100,TRUE,101302,5717,1842,223
+224,Vrije Universiteit Brussel (VUB),707,8,110,TRUE,114059,3222,3750,195
+225, University of Notre Dame,694,6,120,FALSE,99236,2820,2701,266
+226,Complutense University of Madrid,579,6,102,TRUE,98358,4724,2005,506
+227,Qatar University,558,7,108,TRUE,61684,2611,1456,302
+228,Wuhan University,724,8,92,FALSE,94507,3442,3600,276
+229,Rheinische Friedrich-Wilhelms-Universität Bonn,601,7,93,FALSE,95033,6489,2678,951
+230,University of Cape Town,643,8,103,TRUE,26902,4424,2128,966
+231,University of Sussex,769,6,92,TRUE,51665,5715,3092,927
+232,University of Virginia,530,6,110,TRUE,92913,2325,3710,944
+233,University of Ottawa,567,6,119,TRUE,49271,4789,910,488
+234,Loughborough University,662,9,96,TRUE,17314,4268,1157,106
+235,"University of California, Irvine",783,9,90,TRUE,50222,2559,2784,563
+236,Maastricht University,741,8,118,TRUE,22941,5011,2786,819
+237,University of Antwerp,522,7,95,FALSE,20770,4926,1574,588
+238,University of Calgary,534,9,117,FALSE,96620,4196,1531,963
+239,Harbin Institute of Technology,771,9,101,TRUE,55624,6609,3329,575
+240,Universidad de los Andes,766,8,100,FALSE,60856,4807,2816,205
+241,University of Leicester,800,9,89,FALSE,58526,3046,2101,31
+242,Victoria University of Wellington,557,6,87,TRUE,58850,3912,3955,398
+243,Queen's University at Kingston,703,9,105,FALSE,29561,6791,1322,370
+244,USI - Università della Svizzera italiana,673,9,102,FALSE,87511,7375,1871,859
+245,American University of Beirut (AUB),616,8,98,TRUE,83838,2816,2846,534
+246,Saint Petersburg State University,519,8,108,TRUE,44452,7729,1167,532
+247,Università di Padova,777,8,104,TRUE,16805,6018,3180,39
+248,Ecole des Ponts ParisTech,784,8,85,TRUE,14758,7953,2648,580
+249, Novosibirsk State University,504,6,107,TRUE,52627,3645,2940,264
+250,University of Massachusetts Amherst,519,7,103,FALSE,44445,3488,2841,310
+251,Georgetown University,666,7,97,TRUE,111753,6490,2004,279
+252,Universitat Pompeu Fabra (Barcelona),606,8,109,TRUE,13668,4224,3879,38
+253,Universiti Brunei Darussalam (UBD),708,9,87,FALSE,58829,6377,2454,299
+254,University of Colorado Boulder,760,7,108,TRUE,44422,6664,2385,552
+255,National Cheng Kung University (NCKU),642,6,111,TRUE,35862,4626,3517,319
+256,Yeshiva University,598,9,97,TRUE,101303,5268,1239,229
+257,Gadjah Mada University,618,8,108,FALSE,12669,7393,3643,967
+258,Indian Institute of Technology Madras (IITM),669,9,119,TRUE,14881,5802,2205,672
+259,Mahidol University,610,7,96,TRUE,15036,4124,914,686
+260,Tel Aviv University,753,6,116,FALSE,115254,5935,1678,908
+261,University of Galway,750,6,106,FALSE,71625,3287,2825,997
+262,Universidad Nacional de Colombia,754,9,113,TRUE,88948,5229,1993,709
+263,University of Canterbury | Te Whare W_nanga o Waitaha,659,7,97,FALSE,20311,7778,2118,529
+264,Sun Yat-sen University,544,6,92,FALSE,81246,6161,3143,646
+265,Sciences Po,651,9,88,FALSE,116001,5698,1813,52
+266,Université Paris Cité,527,9,88,TRUE,78780,2712,1061,887
+267,Kyung Hee University,612,8,89,FALSE,91753,3424,2077,667
+268,Rutgers University–New Brunswick,660,9,97,TRUE,16447,6308,3743,159
+269, Charles University,629,9,109,TRUE,42498,4413,1003,96
+270,University of Navarra,661,8,115,TRUE,22224,5669,2669,3
+271,National Yang Ming Chiao Tung University,778,9,104,TRUE,110157,6774,1785,832
+272,The University of Arizona,646,7,96,FALSE,84522,7839,3342,270
+273, Technical University of Darmstadt,650,9,93,TRUE,38473,7164,2177,826
+274,Beijing Normal University,757,8,112,FALSE,58383,2520,2371,182
+275,Dalhousie University,562,7,116,FALSE,46038,2329,2193,42
+276,Tomsk State University,524,9,114,TRUE,85612,5023,1096,793
+277,University of Surrey,515,9,94,FALSE,104173,5488,2270,835
+278,Southern University of Science and Technology (SUSTech),511,9,108,FALSE,37776,5994,3210,463
+279,Tufts University,507,9,95,TRUE,115234,3036,2927,981
+280,Graz University of Technology,548,6,115,TRUE,106199,6802,2051,725
+281,Indian Institute of Technology Kanpur (IITK),719,8,100,TRUE,18434,7561,2425,525
+282,King Saud University,508,7,100,TRUE,57093,4745,1341,685
+283,Indian Institute of Technology Kharagpur (IIT-KGP),664,8,107,TRUE,75470,5717,3902,877
+284,Bauman Moscow State Technical University,518,7,98,TRUE,26898,3824,1134,830
+285,Universität Innsbruck,689,6,96,TRUE,92994,5928,2292,12
+286,Deakin University,697,7,120,TRUE,24004,3853,1751,91
+287,Massey University,701,6,113,TRUE,62095,4782,1861,786
+288,University of Illinois at Chicago (UIC),774,8,107,FALSE,13910,6385,3011,999
+289,University of Tsukuba,645,9,116,TRUE,112833,7868,2464,728
+290,Hong Kong Baptist University,744,6,115,FALSE,100469,4178,2357,451
+291,United Arab Emirates University,754,9,95,TRUE,29723,2732,2854,708
+292,Griffith University,724,6,96,TRUE,42124,7681,2866,757
+293,Moscow Institute of Physics and Technology (MIPT / Moscow Phystech),548,6,106,TRUE,35186,5417,2379,66
+294,Universitas Indonesia,725,8,112,FALSE,97317,6064,2318,263
+295,Université Paris 1 Panthéon-Sorbonne,774,6,112,TRUE,104585,6392,1209,614
+296,Xi’an Jiaotong University,752,9,112,FALSE,89661,2681,3820,710
+297,Belarusian State University,567,8,98,TRUE,90621,3202,1371,114
+298,University of Porto,747,8,87,FALSE,29137,6341,3602,340
+299,University of Turku,689,6,95,FALSE,13966,4232,1675,442
+300,Simon Fraser University,580,8,113,FALSE,25980,2482,3087,585
+301,University College Cork,590,9,95,FALSE,47865,4933,2267,664
+302,North Carolina State University,500,9,93,TRUE,29054,3629,2451,653
+303,University of Tartu,645,7,100,TRUE,68108,3335,1929,144
+304, University of Strathclyde,759,9,115,TRUE,82331,2500,1118,866
+305,Bandung Institute of Technology (ITB),529,7,109,TRUE,38800,5436,2892,785
+306,University of Tasmania,738,8,101,TRUE,43617,2328,3728,54
+307,Gwangju Institute of Science and Technology (GIST),504,9,93,FALSE,46947,3226,1422,691
+308,HSE University,662,9,112,FALSE,49849,4746,2670,15
+309,University of East Anglia (UEA),603,7,95,FALSE,94783,6044,2368,73
+310,University of Warsaw,509,6,100,TRUE,28029,2175,983,900
+311,Jagiellonian University,642,9,111,FALSE,26370,2581,1407,140
+312,University of Southern Denmark (SDU),612,8,110,TRUE,39726,6632,2245,269
+313,Indiana University Bloomington,702,7,109,FALSE,102121,2046,2695,949
+314,University of Cologne,641,9,94,FALSE,119631,5764,3894,789
+315,University of Miami,777,7,118,FALSE,77785,2475,1985,721
+316,National Taiwan University of Science and Technology (Taiwan Tech),753,7,101,FALSE,108410,7180,3533,22
+317,Université Grenoble Alpes,548,7,107,TRUE,11351,4743,3028,112
+318,University of Milan,554,8,85,TRUE,87487,6020,1554,847
+319,IE University,570,7,93,FALSE,83111,5118,3452,815
+320,RUDN University,635,6,118,TRUE,83740,2407,1106,519
+321,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),521,6,91,TRUE,64706,2191,1362,354
+322,Universitat Politècnica de Catalunya · BarcelonaTech (UPC),573,7,106,TRUE,35590,3004,2936,619
+323,Swinburne University of Technology,594,6,95,FALSE,24852,5847,3123,326
+324,University of Dundee,652,6,87,TRUE,49214,5605,3292,985
+325,Friedrich-Alexander-Universität Erlangen-Nürnberg,654,7,118,FALSE,52368,6631,3309,856
+326,Pontificia Universidad Católica Argentina,758,7,86,FALSE,70034,2038,1559,156
+327,University of Macau,666,8,106,TRUE,76855,3271,2627,110
+328,Aalborg University,545,9,89,FALSE,75461,6161,2546,98
+329,University of South Australia,537,8,111,FALSE,31523,2611,1564,478
+330,L.N. Gumilyov Eurasian National University (ENU),653,6,98,FALSE,106727,2692,3457,665
+331,Linköping University,503,9,90,FALSE,13289,6466,1574,369
+332,"City, University of London",624,6,99,TRUE,110144,2465,3820,396
+333,Technion - Israel Institute of Technology,716,6,102,TRUE,13963,2003,1107,639
+334,"Birkbeck, University of London",516,6,112,FALSE,12561,2225,3960,157
+335,Taylor's University,749,9,93,FALSE,111236,2816,2856,166
+336,Huazhong University of Science and Technology,733,9,94,TRUE,79075,7803,1649,714
+337,National Taiwan Normal University,624,7,96,TRUE,22745,4669,2512,564
+338,Politecnico di Torino,691,7,119,FALSE,39585,7640,3720,239
+339,Royal Holloway University of London,609,9,85,TRUE,12739,6017,1937,605
+340,Tianjin University,769,9,120,TRUE,47368,7841,1673,739
+341,University of Victoria (UVic),765,7,118,FALSE,79692,7977,1642,673
+342,Goethe-University Frankfurt am Main,638,9,115,FALSE,54410,5346,3890,894
+343,University of Hawai_i at M_noa,532,7,104,TRUE,31900,7895,1343,271
+344,Northeastern University,728,9,105,FALSE,113355,5259,3728,878
+345,Hiroshima University,534,8,94,FALSE,99699,5238,1381,952
+346,Universiti Teknologi Brunei,660,7,99,FALSE,14885,4269,3129,936
+347,Universität Jena,780,7,111,TRUE,37888,5082,2600,836
+348,Virginia Polytechnic Institute and State University,527,8,88,FALSE,111258,3288,1048,343
+349,Kazan (Volga region) Federal University,778,9,118,TRUE,49603,7505,2807,611
+350,UCSI University,571,8,94,TRUE,54594,6496,3299,175
+351,"University of California, Santa Cruz",629,9,119,FALSE,86699,5677,2769,695
+352,Universität Stuttgart,560,8,118,TRUE,72794,4176,1270,74
+353,Brunel University London,571,7,101,FALSE,117258,4537,3088,606
+354,Universidad Carlos III de Madrid (UC3M),728,8,108,TRUE,16732,6862,1900,79
+355,Ural Federal University - UrFU,603,7,113,FALSE,43985,4802,1044,186
+356,Johannes Kepler University Linz,712,9,85,FALSE,32169,4292,3156,234
+357,George Washington University,645,7,101,TRUE,110194,3570,3281,820
+358,Tilburg University,508,6,90,FALSE,93066,3219,2063,356
+359,University of Lisbon,526,8,102,FALSE,60678,4942,949,972
+360,Nankai University,509,7,91,FALSE,32202,5164,2529,430
+361,National University of Sciences And Technology (NUST) Islamabad,574,8,91,TRUE,116547,3512,2909,861
+362,University of Jyväskylä,599,7,89,TRUE,100286,7598,2136,872
+363,University of Utah,661,9,119,FALSE,109980,3850,3067,10
+364,Ewha Womans University,772,6,103,TRUE,111280,6643,1778,499
+365,La Trobe University,669,6,91,FALSE,115368,2516,3274,342
+366,MGIMO University,513,8,112,TRUE,112971,7956,1918,501
+367,ITMO University,610,9,113,FALSE,61276,5664,1048,243
+368,Umea University,799,7,91,TRUE,69914,5983,3148,965
+369,Ulm University,698,6,94,FALSE,117241,7913,3612,334
+370,Sultan Qaboos University,630,9,94,TRUE,40683,4372,1742,399
+371,Norwegian University of Science And Technology,752,6,90,FALSE,74874,4377,1880,610
+372,Universidade Federal do Rio de Janeiro,708,6,88,FALSE,73463,3127,1063,701
+373,Universitat Politecnica de Valencia,631,7,101,TRUE,49871,3695,1425,495
+374,Lincoln University,656,6,119,FALSE,88025,3566,1911,247
+375,Beijing Institute of Technology,655,7,89,TRUE,68336,5213,2280,483
+376,"University of Chemistry and Technology, Prague",638,7,120,FALSE,109250,2802,1681,550
+377,University of Connecticut,578,7,107,FALSE,107297,3971,3644,873
+378,Uniiversity of Waikato,569,9,120,TRUE,33137,2375,952,554
+379,University of Oulu,731,6,87,TRUE,86523,3343,3896,473
+380,Julius-Maximilians-Universität Würzburg,741,6,98,TRUE,38767,3648,2297,361
+381,Quaid-i-Azam University,592,9,98,FALSE,47678,4545,3850,902
+382,"Stony Brook University, State University of New York",792,6,107,TRUE,56944,5698,1721,675
+383,Sharif University of Technology,665,7,103,TRUE,22372,6503,3178,827
+384,Tokyo Medical and Dental University (TMDU),674,6,111,FALSE,73345,6199,1958,172
+385,American University of Sharjah,775,9,120,TRUE,35619,6218,1677,162
+386,Beihang University (former BUAA),603,9,116,FALSE,56023,3817,2559,921
+387,University of Kent,638,8,118,FALSE,116114,6118,3433,929
+388,Kobe University,530,6,98,FALSE,77377,3704,3765,860
+389, University of Kansas,781,8,111,TRUE,30295,5418,2231,265
+390,University at Buffalo SUNY,643,9,92,TRUE,93828,4358,3632,982
+391, University of Pisa,712,9,109,TRUE,12413,2054,2667,216
+392,Università Vita-Salute San Raffaele,702,7,85,FALSE,119216,6660,3222,406
+393,SOAS University of London,544,8,97,FALSE,22838,2909,1098,559
+394,Universidad de Palermo (UP),624,6,91,FALSE,93745,2177,3592,842
+395,Peter the Great St. Petersburg Polytechnic University,694,8,91,TRUE,17374,6531,3533,779
+396,Ruhr-Universität Bochum,722,7,88,TRUE,109449,5410,2544,347
+397,Indian Institute of Technology Guwahati (IITG),503,6,87,FALSE,78592,2912,974,137
+398,National Research Tomsk Polytechnic University,599,8,112,TRUE,45953,4555,2029,743
+399,Pontificia Universidad Catolica del Peru,545,9,113,FALSE,115545,3723,2379,644
+400,Pakistan Institute of Engineering and Applied Sciences (PIEAS),580,7,100,TRUE,115833,3877,1981,533
+401,University of the Philippines,529,6,108,FALSE,66006,5283,2320,2
+402,Indian Institute of Technology Roorkee (IITR),609,8,99,FALSE,59265,2617,2386,145
+403,Universidad Austral,795,9,102,FALSE,17338,2051,3905,716
+404,Vilnius University,616,8,109,TRUE,63602,2962,1488,513
+405,Czech Technical University in Prague,778,9,118,TRUE,116863,7985,2977,222
+406,Shandong University,558,6,97,FALSE,85396,4971,2540,385
+407,"University of California, Riverside",743,7,117,TRUE,105069,6236,1676,477
+408,Flinders University,703,7,92,FALSE,107423,3669,1256,996
+409,South China University of Technology,620,7,102,TRUE,12999,2077,1046,544
+410,Taipei Medical University (TMU),785,6,113,TRUE,30194,3567,3129,922
+411,Xiamen University,718,8,97,FALSE,16607,3678,3086,705
+412,University of Münster,543,7,89,FALSE,99476,7459,3439,461
+413,National Sun Yat-sen University,578,6,114,FALSE,88254,3113,3419,16
+414,Pontificia Universidad Javeriana,550,6,110,FALSE,35049,3690,2468,121
+415,Chung-Ang University (CAU),754,8,91,FALSE,117681,7924,1022,974
+416,Lappeenranta-Lahti University of Technology LUT,719,8,101,TRUE,41042,2324,3214,190
+417,Tampere University,505,7,116,FALSE,53745,6795,3620,232
+418,Universiti Teknologi PETRONAS (UTP),678,7,107,TRUE,71639,2209,2205,846
+419,"University of Colorado, Denver",551,7,113,FALSE,10278,5088,1274,36
+420,University of Science and Technology Beijing,768,8,104,FALSE,118845,3467,1519,472
+421,Université Laval,511,8,117,FALSE,51609,4023,966,57
+422,National Technical University of Athens,529,7,108,TRUE,54466,2618,1897,522
+423,Université de Strasbourg,605,9,96,TRUE,55499,2050,2767,574
+424,Universität Mannheim,656,7,86,TRUE,84327,2037,3610,851
+425,James Cook University,626,8,88,FALSE,119021,7018,2763,932
+426,University of Naples - Federico II,778,6,94,FALSE,97260,3090,2716,907
+427,University of Witwatersrand,782,9,86,FALSE,91328,7579,3514,476
+428,Johannes Gutenberg Universität Mainz,602,8,111,TRUE,89442,7414,3048,730
+429,Washington State University,680,6,106,FALSE,83309,2222,1124,916
+430,Oxford Brookes University,624,8,103,TRUE,117568,2947,1862,992
+431,Wake Forest University,677,6,101,FALSE,108324,3787,1798,470
+432,Colorado State University,656,6,100,FALSE,114321,3330,1175,345
+433,Rensselaer Polytechnic Institute,759,6,85,TRUE,86384,6815,2612,367
+434,Universidade Nova de Lisboa,522,9,100,FALSE,92557,6037,1873,428
+435,Universidade Federal de São Paulo,778,6,95,FALSE,48454,7692,2385,85
+436,University of Johannesburg,574,7,103,FALSE,43634,2476,2896,640
+437,Shanghai University,560,8,87,FALSE,26722,7838,3900,808
+438,Tulane University,638,8,91,TRUE,115564,6365,1923,391
+439,University of Canberra,663,6,95,FALSE,39089,4610,3389,414
+440,"Essex, University of",765,8,115,TRUE,61165,5751,3435,33
+441,Swansea University,565,6,112,TRUE,97464,5634,1511,368
+442,University of Cyprus (UCY),727,7,89,FALSE,42491,4959,3788,194
+443, University of Trento,699,7,115,TRUE,13526,2450,2621,868
+444,University of Tromsø The Arctic University of Norway,500,8,109,FALSE,65133,3344,2564,169
+445,Illinois Institute of Technology,558,9,104,TRUE,12305,3644,3279,392
+446,HUFS - Hankuk (Korea) University of Foreign Studies,515,7,119,FALSE,16632,3641,1068,694
+447,The American University in Cairo,506,9,114,FALSE,47473,6107,1025,71
+448,Umm Al-Qura University,780,7,91,TRUE,103689,2073,2529,328
+449,Universität Leipzig,557,8,89,TRUE,52107,6971,2480,917
+450,Saarland University,756,6,113,TRUE,91952,5226,1476,8
+451,University of Milano-Bicocca,681,9,90,TRUE,63502,2078,3009,796
+452,Auckland University of Technology (AUT),565,8,85,TRUE,115806,3403,1946,332
+453,Bond University,757,7,104,TRUE,24969,7494,1012,976
+454,Sichuan University,565,9,102,FALSE,11645,4881,3186,105
+455,University of Florence,508,8,106,TRUE,24966,7750,2692,759
+456,Brandeis University,713,7,104,FALSE,118168,4698,2580,331
+457,University of Coimbra,663,9,90,FALSE,76929,3564,1515,324
+458,University of Iowa,547,6,86,FALSE,41468,4641,3767,462
+459,University of Saskatchewan,666,9,120,TRUE,27563,5559,3997,839
+460,Universidad Politécnica de Madrid (UPM),687,7,85,FALSE,53999,5369,1172,220
+461,University of St.Gallen (HSG),800,6,110,TRUE,114143,3653,942,287
+462,Colorado School of Mines,662,8,113,TRUE,11846,5536,3404,748
+463,Far Eastern Federal University,766,8,92,FALSE,45226,6715,3260,179
+464,"Goldsmiths, University of London",515,7,91,TRUE,76603,3693,3377,200
+465,Martin-Luther-Universität Halle-Wittenberg,755,6,86,TRUE,82292,2849,1794,419
+466,Airlangga University,623,8,116,FALSE,21260,5774,1705,127
+467,Amirkabir University of Technology,570,6,101,FALSE,78024,4898,1802,193
+468,Southeast University,679,7,116,FALSE,81988,7795,1525,658
+469,Universidad de Belgrano,544,9,104,FALSE,36191,7987,2780,282
+470,National Taipei University of Technology,691,6,117,TRUE,47512,5187,976,55
+471,Universidad de Montevideo (UM),551,8,101,FALSE,101242,3428,2863,798
+472,Ben-Gurion University of The Negev,711,7,118,FALSE,87989,4522,2865,943
+473,Hasselt University,791,8,106,TRUE,67112,5241,1387,734
+474,Universidad ORT Uruguay,742,7,118,TRUE,116422,7654,1602,444
+475,University of Stirling,659,6,105,FALSE,12861,4378,3739,871
+476,Florida State University,648,8,85,TRUE,37506,3289,917,402
+477,"University of Missouri, Columbia",534,9,94,TRUE,18953,6379,2325,688
+478,Bar-Ilan University,511,9,90,FALSE,62859,3162,2257,303
+479, Chiba University,541,9,118,FALSE,95280,4985,1098,93
+480,University of Texas Dallas,586,6,109,FALSE,23138,4832,1785,595
+481,Chang Gung University,520,7,117,TRUE,25682,2442,990,131
+482,Universite de Liege  ,660,7,85,TRUE,23904,6535,2288,698
+483,Auezov South Kazakhstan University (SKU),618,8,118,TRUE,62219,4788,1897,612
+484,Stellenbosch University ,568,9,86,FALSE,27478,5511,2850,25
+485,The Catholic University of Korea,800,7,98,FALSE,37200,4064,1969,978
+486,Aston University,731,7,85,TRUE,23904,6535,2288,212
+487, University of Turin,622,8,82,TRUE,13061,3298,3178,17
+488,The National University of Science and Technology MISIS,694,7,110,FALSE,34129,5128,2095,191
+489,Universidad de Santiago de Chile (USACH),727,6,90,TRUE,112204,4134,2282,35
+490,Yokohama City University,643,8,103,FALSE,101353,5999,3092,637
+491,Dublin City University,783,6,85,FALSE,38248,5256,987,158
+492,Justus-Liebig-University Giessen,516,8,90,TRUE,79868,5605,2737,426
+493,UNESP,555,8,87,FALSE,13167,4047,1258,549
+494,University of Granada,536,8,86,FALSE,56747,3258,3168,895
+495,Western Sydney University,740,9,99,TRUE,85189,3222,1324,655
+496,Boston College,521,8,115,TRUE,66341,5323,3488,468
+497,Christian-Albrechts-University zu Kiel,697,8,105,FALSE,62633,5019,1052,801
+498,Dongguk University,598,8,117,FALSE,35331,3665,1824,457
+499,Iowa State University,563,8,92,FALSE,50677,6051,3644,829
+500,Sogang University,722,6,113,TRUE,56271,6012,1397,133
+501,"University of Rome ""Tor Vergata""",588,6,100,TRUE,73792,2755,1151,284
+502, York University,532,6,100,FALSE,71274,3353,2691,458
+503,Aix-Marseille University,632,9,91,TRUE,65299,3388,1614,213
+504,Jilin University,636,9,118,FALSE,53583,4312,2007,81
+505,Satbayev University,793,9,90,TRUE,35354,5101,3702,931
+506,Universidad de La Habana,613,8,111,FALSE,54867,7332,3436,625
+507,University of Bordeaux,660,8,94,FALSE,93712,7892,2412,543
+508,University of Delhi,630,7,87,FALSE,50161,6339,2737,617
+509,University of Klagenfurt,648,6,91,FALSE,67880,6406,3202,883
+510,University of Limerick,732,7,108,FALSE,36397,4919,3895,642
+511,Universität Konstanz,737,7,116,FALSE,91519,7831,1576,628
+512,Warsaw University of Technology,714,6,105,FALSE,70603,3664,3160,94
+513,PB University (aka Bogor Agricultural University),504,9,102,TRUE,108111,3461,2746,475
+514, Koç University,747,6,116,FALSE,22632,6005,1386,962
+515,Missouri University of Science and Technology,695,9,113,FALSE,23516,2910,2505,187
+516,Singapore Management University,567,7,104,FALSE,97760,5233,2251,704
+517,Universidad de Alcalá,679,9,101,TRUE,28218,6374,3210,511
+518,Universiti Utara Malaysia (UUM),760,6,116,TRUE,45561,2829,2878,825
+519,University of Balamand,516,6,97,FALSE,115212,7503,2719,374
+520, V. N. Karazin Kharkiv National University,612,9,111,TRUE,43667,2594,1680,778
+521, Wayne State University,585,6,88,FALSE,70983,6481,2632,56
+522,Central South University,700,7,89,FALSE,10002,5866,2239,579
+523,China University of Geosciences,562,8,90,FALSE,75910,5214,2096,582
+524, Concordia University,570,9,89,FALSE,17171,5550,3198,568
+525,Imam Abdulrahman Bin Faisal University (IAU),626,7,90,TRUE,102739,7466,1654,957
+526,National Central University,701,6,100,TRUE,70692,2782,1678,722
+527,"Universidad Central ""Marta Abreu"" de Las Villas",680,9,103,FALSE,25334,5504,3607,415
+528,University of Bayreuth,511,8,97,FALSE,33999,3080,3341,150
+529,University of Eastern Finland,631,9,115,FALSE,71801,3188,3406,306
+530,University of Tehran,594,8,90,FALSE,47408,3990,3242,482
+531,Université de Montpellier,632,6,95,TRUE,105263,6646,3824,788
+532,Ajou University,775,6,102,FALSE,104038,7262,3626,366
+533,East China Normal University,604,8,91,FALSE,17705,3669,3397,484
+534,Hitotsubashi University,759,9,111,FALSE,48849,7633,2346,833
+535, Institut National des Sciences Appliquées de Lyon (INSA),657,9,100,TRUE,101135,3454,3819,50
+536,Lehigh University,591,6,102,FALSE,56242,5011,1613,783
+537,Nagasaki University,634,7,95,FALSE,34433,7637,1414,58
+538,National Research Saratov State University,721,7,97,FALSE,22845,7150,2629,777
+539,Oregon State University,555,6,114,TRUE,76262,7329,3710,942
+540,Saint Joseph University of Beirut (USJ),601,9,111,TRUE,108418,5229,1273,702
+541,Southern Federal University,504,7,87,FALSE,94617,4272,1003,683
+542,Universidad de Costa Rica,728,6,100,FALSE,98126,2026,3526,558
+543, Universidad de Zaragoza,769,6,91,TRUE,94731,3924,2564,351
+544,University of Delaware,528,7,105,FALSE,85642,5665,1067,528
+545,Aberystwyth University,598,7,113,TRUE,16360,4009,2848,171
+546, Iran University of Science and Technology,686,9,87,FALSE,106343,2485,1080,831
+547,Kyungpook National University,770,9,100,TRUE,42194,5389,1620,221
+548,Niigata University,698,9,89,FALSE,81362,6485,3090,335
+549,Northwestern Polytechnical University,685,6,96,FALSE,73459,5427,2487,736
+550,Sabanci University,679,9,92,TRUE,24711,6031,2774,821
+551,The University of Georgia,760,7,116,FALSE,89077,2293,2912,668
+552," The University of Tennessee, Knoxville",655,9,118,TRUE,24781,4533,3770,352
+553,University of Ulsan,612,8,105,FALSE,93800,2283,3611,4
+554,Abai Kazakh National Pedagogical University,523,7,119,FALSE,59820,5269,1390,107
+555,Aristotle University of Thessaloniki,574,9,86,FALSE,106267,7654,1239,566
+556,Kazakh National Agrarian University KazNAU,615,6,114,FALSE,65904,3567,2779,946
+557,Masaryk University,625,6,107,FALSE,28962,6859,3124,737
+558,Middle East Technical University,606,9,112,FALSE,42544,5673,1898,538
+559,Universidad Panamericana (UP),694,8,103,TRUE,38061,4311,965,492
+560,Universidad de Sevilla,687,8,107,TRUE,42703,6278,1109,548
+561,University of Szeged,734,6,93,TRUE,51579,2838,3603,799
+562,Università Cattolica del Sacro Cuore,800,9,97,FALSE,58573,6123,2942,913
+563,Université Paul Sabatier Toulouse III,730,8,103,FALSE,113145,7964,3668,452
+564,Altai State University,564,9,112,FALSE,70371,6093,1123,905
+565,Hallym University,646,8,87,TRUE,87902,3169,2261,750
+566,Inha University,581,7,94,FALSE,51045,6282,1995,622
+567,Jawaharlal Nehru University,782,8,86,FALSE,68349,3780,3015,261
+568,Technische Universität Braunschweig,675,6,92,FALSE,102391,4402,1283,937
+569,The New School,702,6,118,FALSE,68715,4935,2048,893
+570,Università degli Studi di Pavia,614,6,118,TRUE,117064,6002,3454,465
+571,Université de Fribourg,793,9,103,FALSE,94110,7561,1628,249
+572,Cairo University,637,7,89,TRUE,53998,6344,1718,388
+573,Dalian University of Technology,505,8,111,FALSE,73720,2821,1243,660
+574,East China University of Science and Technology,592,7,85,FALSE,67417,2128,3450,809
+575, Holy Spirit University of Kaslik,606,8,99,TRUE,26273,2055,3552,517
+576,Hunan University,542,6,110,FALSE,113557,7460,3057,413
+577,Ivane Javakhishvili Tbilisi State University,704,8,101,FALSE,118084,4321,2872,28
+578,Jeonbuk National University,615,9,86,TRUE,18697,5156,3917,539
+579,Osaka City University,526,7,99,FALSE,98495,6388,3682,973
+580,Universitat de Valencia,612,8,92,FALSE,50288,2669,2242,387
+581,University of Minho,593,7,119,FALSE,77473,3542,2284,663
+582, University of Nebraska - Lincoln,747,6,103,FALSE,28402,6549,2396,953
+583,Universität Bremen,767,8,105,FALSE,57143,2588,3534,970
+584,Lebanese American University,751,7,85,TRUE,84997,2737,942,275
+585,"Lingnan University, Hong Kong",716,7,87,FALSE,65464,4814,998,930
+586,Murdoch University,568,9,117,FALSE,102769,5354,1987,170
+587,Samara National Research University (Samara University),630,7,111,TRUE,65504,5593,1717,526
+588,Universidad Nacional de La Plata (UNLP),688,7,116,TRUE,75406,7588,3353,178
+589,University of Guelph,676,6,107,FALSE,106199,2903,2598,870
+590,University of South Florida,761,7,97,FALSE,32315,2246,3000,250
+591,Applied Science University - Bahrain,567,8,95,TRUE,90573,3905,3367,202
+592,Bilkent University,540,8,97,TRUE,82447,5751,3968,62
+593,Indian Institute of Technology Hyderabad (IITH),580,9,95,FALSE,77517,7541,3771,242
+594,Kumamoto University,563,8,113,FALSE,58264,3945,2189,918
+595,National Chengchi University,695,9,104,FALSE,37949,6047,1107,693
+596,Savitribai Phule Pune University,673,8,113,FALSE,19632,7362,1279,744
+597,"Sofia University ""St. Kliment Ohridski""",503,6,86,TRUE,52423,6596,1627,292
+598,Universidad Externado de Colombia,561,8,100,TRUE,90216,4381,3466,518
+599,University of Debrecen,581,6,91,TRUE,81337,3795,902,676
+600,University of Electronic Science and Technology of China,608,7,101,FALSE,62486,6233,1935,424
+601,University of Ljubljana,619,7,99,TRUE,47791,4180,1790,784
+602,Universität Regensburg,570,9,106,TRUE,119978,3826,3659,570
+603,Université du Québec,690,6,112,TRUE,94808,2114,2946,771
+604,Abo Akademi University,636,7,114,FALSE,33172,7559,3195,466
+605,American University in Dubai,656,6,87,FALSE,108437,7501,2989,214
+606,Ateneo de Manila University,784,6,97,TRUE,57425,4200,3902,904
+607,Bangor University,627,8,98,TRUE,44762,4631,3512,41
+608,Canadian University Dubai,556,9,98,FALSE,75658,7704,2075,816
+609,Carleton University,709,6,105,TRUE,14141,7047,1812,176
+610,Central Queensland University (CQUniversity Australia),648,9,103,TRUE,117693,4798,1668,986
+611,Chiang Mai University,562,8,112,FALSE,94007,6684,3128,814
+612,China Agricultural University,549,8,108,TRUE,100269,7213,2374,940
+613,Clark University,500,7,115,FALSE,79205,7418,2030,797
+614,Coventry University,775,6,86,FALSE,24012,6899,2838,460
+615, Gifu University,793,8,104,FALSE,44356,5853,2428,67
+616,Kanazawa University,684,8,97,TRUE,62015,7559,3675,782
+617,"Kingston University, London",667,6,95,FALSE,33620,7972,2768,787
+618,Konkuk University,552,8,117,TRUE,82167,4536,2108,471
+619,Leibniz University Hannover,558,9,107,TRUE,45989,7294,2628,854
+620,Management and Science University,510,6,105,TRUE,65822,5531,2451,545
+621,Nanjing University of Science and Technology,668,6,85,TRUE,29763,4389,2474,977
+622,Palack_ University Olomouc,724,7,116,FALSE,105556,5175,1612,184
+623, Pavol Jozef _afárik University in Ko_ice,743,6,97,TRUE,90618,5654,2105,228
+624,Pusan National University,744,7,104,TRUE,100462,4988,3579,608
+625,Renmin (People's) University of China,688,9,110,FALSE,95295,6391,2390,289
+626,Asfendiyarov Kazakh National Medical University,510,6,90,FALSE,40100,6012,3721,920
+627,Sejong University,682,8,85,FALSE,104131,4826,3864,443
+628,Shenzhen University,782,6,88,TRUE,96121,5206,1625,24
+629,Smith College,647,9,94,FALSE,10847,3582,3769,590
+630,Soochow University,519,7,86,FALSE,103787,3535,1142,884
+631,Taras Shevchenko National University of Kyiv,756,9,104,FALSE,51718,3374,2304,520
+632,Thammasat University,723,8,95,TRUE,104876,5378,2072,571
+633,Tokyo University of Agriculture and Technology,720,8,114,FALSE,10613,6417,3819,677
+634,Universidad Anáhuac México,610,9,115,TRUE,88955,5489,2923,237
+635,Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN),673,7,100,FALSE,48593,2669,1872,980
+636,Universidad Pontificia Comillas,531,8,87,TRUE,72418,6409,2925,147
+637,Universidad de Concepción,685,8,102,TRUE,22077,7619,3925,437
+638,Universitat Ramon Llull,603,8,107,FALSE,93148,3190,3055,227
+639,Universite Paris-Pantheon-Assas,732,7,98,FALSE,63784,3246,2724,153
+640,University of Aveiro,532,8,90,FALSE,102135,5892,1523,323
+641,University of Cincinnati,770,8,98,TRUE,61824,7317,1237,687
+642,University of Genoa,758,8,86,TRUE,62132,3277,2647,535
+643,University of Hohenheim,785,9,93,FALSE,15195,7112,3098,364
+644,University of Jordan,518,8,107,FALSE,45219,6070,3900,20
+645,University of Manitoba,537,9,98,TRUE,23479,4752,2052,346
+646, University of Plymouth,557,6,109,FALSE,56701,7986,3371,92
+647,University of Pretoria,633,6,95,FALSE,115688,6074,1518,14
+648,University of Sharjah,562,6,98,TRUE,19689,7918,2705,48
+649,University of Siena,737,7,107,FALSE,69734,2565,1787,433
+650,University of South Carolina,744,9,107,TRUE,77809,3991,3443,933
+651,Victoria University,718,9,96,TRUE,44617,5158,1319,77
+652,American University,646,8,119,FALSE,48497,3070,3286,772
+653,Chongqing University,543,6,109,FALSE,66956,3020,1715,496
+654,College of William and Mary,623,9,101,TRUE,102283,3848,3413,645
+655,Comenius University Bratislava,631,6,87,FALSE,55088,5908,1448,635
+656,Drexel University,751,6,114,TRUE,102816,6491,2934,34
+657,Edith Cowan University,700,7,105,TRUE,90642,5794,3722,718
+658,Eötvös Loránd University,548,8,107,FALSE,37193,5095,2574,422
+659,Free University of Bozen-Bolzano,788,6,97,TRUE,82930,3083,1728,300
+660,Howard University,664,7,104,TRUE,65825,5240,1834,363
+661,Immanuel Kant Baltic Federal University,671,7,105,FALSE,84680,7565,1682,244
+662,International Islamic University Malaysia (IIUM),760,9,103,FALSE,117169,4464,1028,741
+663,Jadavpur University,506,9,113,FALSE,24029,6897,3217,429
+664,Kagoshima University,632,6,100,TRUE,104316,7146,3704,726
+665,Karl-Franzens-Universitaet Graz,597,7,107,TRUE,13375,2004,2461,569
+666,King Khalid University,515,6,93,TRUE,90490,3719,2380,791
+667,Lahore University of Management Sciences (LUMS),698,7,101,TRUE,24686,2487,965,23
+668,Lobachevsky University,638,6,92,TRUE,91838,5567,2225,621
+669,Macau University of Science and Technology,692,9,102,FALSE,62456,4341,2206,604
+670,Michigan Technological University,652,7,93,TRUE,62862,4729,3238,719
+671,National Chung Hsing University,610,9,94,TRUE,99053,7617,2858,592
+672,"National Technical University ""Kharkiv Polytechnic Institute""",507,6,87,FALSE,58276,6615,1488,780
+673,National and Kapodistrian University of Athens,722,6,118,TRUE,108408,3395,2125,749
+674,Pontifícia Universidade Católica do Rio de Janeiro,572,9,108,TRUE,106277,6573,2469,597
+675,Sechenov University,722,7,109,TRUE,96925,7482,1846,321
+676,Sunway University,723,8,108,TRUE,119706,4154,1180,217
+677,Syracuse University,662,7,105,TRUE,31293,6152,3631,556
+678,Tokushima University,631,6,98,TRUE,30628,2291,2324,384
+679,Ulster University,717,6,98,FALSE,103833,2823,1656,82
+680,Universidad ICESI,522,6,120,TRUE,106377,4238,3331,911
+681,Universidad Peruana Cayetano Heredia (UPCH),627,9,105,TRUE,52609,4992,2291,174
+682,Universidad Pontificia Bolivariana,700,9,85,TRUE,105244,3769,1596,624
+683,Universidad de Antioquia,625,9,95,TRUE,41019,4287,1724,350
+684,Universidade Federal de Minas Gerais,672,9,103,TRUE,28063,3555,3171,515
+685,Universiti Teknologi MARA - UiTM,617,6,90,TRUE,46959,5082,1121,395
+686,University of Crete,766,7,88,TRUE,14551,5963,3842,177
+687,University of Hull,534,9,105,FALSE,48724,4235,3032,281
+688,University of Hyderabad,747,6,120,FALSE,110684,7285,2351,909
+689,University of Kentucky,533,7,101,FALSE,92190,5104,1814,417
+690,University of Massachusetts Boston,589,8,111,TRUE,28332,6842,3989,531
+691,University of Mons,605,6,90,FALSE,50045,4189,1200,479
+692,University of New Brunswick,772,6,87,FALSE,47939,4670,912,764
+693,University of New Mexico,679,6,108,FALSE,55393,7204,1635,939
+694,University of Oklahoma,629,8,107,FALSE,117997,2598,2083,615
+695,University of Oregon,788,8,90,TRUE,23171,6999,2507,546
+696,University of Pecs,730,6,95,FALSE,38874,3406,1080,727
+697,University of Portsmouth,553,7,92,TRUE,46391,2066,2918,790
+698,University of Salamanca,738,6,105,FALSE,77521,4850,1059,923
+699,University of Trieste,789,9,94,FALSE,72350,6390,3202,524
+700,University of Vermont,555,8,90,TRUE,95921,3355,1358,938
+701,Universität Rostock,578,6,94,TRUE,42584,6011,1233,255
+702,Université Claude Bernard Lyon 1,665,8,94,TRUE,24126,4399,2686,464
+703,Zayed University,794,6,116,FALSE,54289,5129,3751,712
+704,Abu Dhabi University,581,9,95,TRUE,99044,7059,3014,632
+705,Ajman University,664,7,87,TRUE,96880,3425,2163,327
+706,Al Ain University,756,7,106,FALSE,82093,6533,2873,412
+707,Beijing University of Technology,784,7,110,TRUE,40794,4541,1420,792
+708,Bogaziçi Üniversitesi,735,6,91,TRUE,100735,7409,1442,656
+709,Brno University of Technology,692,8,112,TRUE,79168,3582,1600,812
+710,Charles Darwin University,660,9,110,TRUE,69881,4527,3265,510
+711,City University of New York,560,8,109,FALSE,117655,4915,3324,983
+712,Gunma University,737,6,92,TRUE,107824,5073,2306,116
+713,Indian Institute of Technology Bhubaneswar,708,6,116,TRUE,84410,5183,2812,593
+714,Instituto Tecnológico de Buenos Aires (ITBA),566,8,113,FALSE,98167,6267,1399,1000
+715,Istanbul Technical University,731,8,91,TRUE,20087,6566,1134,888
+716,Jouf University,602,8,104,TRUE,90479,2519,1399,357
+717,Lebanese University,759,9,110,TRUE,34529,3958,3651,1
+718,Middlesex University,703,9,87,TRUE,35478,7247,3557,344
+719,"National Technical University of Ukraine ""Igor Sikorsky Kyiv Polytechnic Institute""",603,8,105,TRUE,28374,6595,974,383
+720,New Jersey Institute of Technology (NJIT),566,7,85,TRUE,95969,6313,3058,651
+721,Northumbria University at Newcastle,776,7,106,FALSE,108829,5460,3210,975
+722,Notre Dame University-Louaize NDU,525,8,102,FALSE,97439,2729,2951,386
+723,O.P. Jindal Global University,683,7,109,TRUE,59175,3720,2310,135
+724,Osaka Prefecture University,691,6,93,FALSE,62896,2770,3131,601
+725,Philipps-Universität Marburg,669,8,85,FALSE,111331,7948,3904,316
+726,Plekhanov Russian University of Economics,596,9,119,FALSE,119512,7316,2749,711
+727, Politecnico di Bari,724,9,117,FALSE,114093,5547,946,850
+728,Prince Mohammad Bin Fahd university,564,6,118,TRUE,29792,5505,1640,120
+729,Saint Petersburg Electrotechnical University ETU-LETI,615,6,110,TRUE,11524,6331,1432,852
+730,Stevens Institute of Technology,736,9,88,TRUE,75338,6472,2387,898
+731,Sumy State University,800,6,102,FALSE,33616,5782,949,173
+732,Tokyo Metropolitan University,731,6,91,FALSE,82055,2953,2982,561
+733,Ufa State Aviation Technical University (USATU),585,6,107,FALSE,38782,4740,2890,89
+734,Universidad Central de Venezuela,506,6,87,FALSE,26644,3135,1593,591
+735,Universidad Iberoamericana IBERO,523,8,112,FALSE,89064,2272,3808,753
+736,Universidad de La Sabana,608,6,111,TRUE,16182,7601,3580,337
+737,Universidad de San Andrés - UdeSA,660,9,108,TRUE,94291,2833,2969,291
+738,Universidade de Santiago de Compostela,669,9,115,TRUE,29142,7666,3514,654
+739,Universitat Rovira i Virgili,736,9,113,TRUE,76686,5159,2222,154
+740,University of Bradford,506,9,105,TRUE,37527,4866,3350,330
+741,University of Haifa,700,7,107,TRUE,78255,2738,2208,218
+742,University of Houston,547,7,118,TRUE,110823,7670,3210,161
+743,University of Huddersfield,757,9,111,FALSE,29826,6690,2696,312
+744, University of Modena and Reggio Emilia,630,7,109,TRUE,52375,2757,2858,454
+745,University of Southern Queensland,676,8,113,FALSE,26226,3488,3611,647
+746,University of Westminster,642,8,104,FALSE,79425,4743,2818,432
+747,University of Windsor,684,9,90,FALSE,48032,5565,2542,530
+748,University of the Basque Country,516,9,93,TRUE,81624,6051,3084,509
+749,Universität Potsdam,783,8,108,TRUE,39220,2676,3713,40
+750,Université Côte d'Azur,542,7,92,FALSE,75095,4651,974,735
+751,Université de Sousse,613,6,99,TRUE,89285,7692,2870,732
+752,Virginia Commonwealth University,749,7,111,TRUE,72603,5053,2822,761
+753,American University of the Middle East,611,9,99,TRUE,31711,3360,3001,141
+754,Belarusian National Technical University (BNTU),756,6,117,TRUE,72657,5243,2477,767
+755,Bournemouth University,620,9,120,FALSE,79483,3328,1801,167
+756,Chonnam National University,770,6,106,FALSE,88102,4090,3811,440
+757,Chungnam National University,524,7,118,TRUE,63093,2378,1943,682
+758,Clarkson University,592,8,90,TRUE,116282,3287,2267,143
+759,Dankook University,571,9,115,TRUE,38692,5260,3381,196
+760,Georgia State University,598,6,105,TRUE,58606,3952,2023,853
+761,Institut Teknologi Sepuluh Nopember (ITS Surabaya),532,8,89,FALSE,40054,5201,1714,108
+762, Instituto Politécnico Nacional (IPN),689,7,105,FALSE,45080,4221,1125,991
+763,Instituto Tecnológico Autónomo de México (ITAM),751,8,107,FALSE,48730,7584,3495,540
+764,Jamia Millia Islamia,631,7,90,FALSE,89377,7003,3793,602
+765,Jinan University (China),752,9,87,FALSE,102799,4148,3532,83
+766,Karaganda State Technical University,615,9,113,TRUE,105765,2619,1883,118
+767,Keele University,720,9,115,TRUE,59675,3650,3048,864
+768,Lanzhou University,523,8,112,TRUE,18944,4544,2320,987
+769,"Manipal Academy of Higher Education, Manipal, Karnataka, India",562,7,86,TRUE,106278,5423,1734,181
+770,Maynooth University,552,8,94,FALSE,40418,5161,2236,301
+771,Memorial University of Newfoundland,511,8,117,FALSE,41100,6643,2989,867
+772,Northwest University (China),609,7,97,TRUE,73856,3175,2192,487
+773,Pontificia Universidad Católica de Valparaíso,654,8,93,FALSE,45865,4315,1195,68
+774,Princess Nourah bint Abdulrahman University,621,6,97,FALSE,30946,5155,2463,490
+775,Riga Technical University,635,6,99,TRUE,56656,7065,3615,117
+776,Ritsumeikan University,684,8,103,FALSE,36122,4020,3721,423
+777,Shiraz University,578,8,86,TRUE,36421,4502,2416,627
+778, Southern Cross University,730,8,117,TRUE,65440,4976,3935,638
+779,Tallinn University of Technology (TalTech),550,7,109,TRUE,34951,2828,3757,189
+780,Temple University,682,9,106,FALSE,96487,4887,1894,283
+781,Universidad Adolfo Ibáñez,525,8,98,TRUE,43198,2364,2552,136
+782,Universidad San Francisco de Quito (USFQ),703,8,102,FALSE,36207,5884,906,100
+783, Universidad Torcuato Di Tella,760,9,118,FALSE,44339,7597,1866,27
+784,Universidad de la República (Udelar),799,7,85,FALSE,102359,5757,3277,311
+785,Universidad del Rosario,673,6,90,TRUE,81237,6243,1587,491
+786,Universidade Federal do Rio Grande Do Sul,719,8,108,FALSE,90427,6877,3146,63
+787,Universiti Tenaga Nasional (UNITEN),680,8,91,TRUE,94601,4991,2996,874
+788,University Duesseldorf,507,7,109,FALSE,106232,2811,3269,325
+789, University at Albany SUNY,651,7,99,FALSE,13532,2307,1432,360
+790,University of Brescia,621,8,104,TRUE,90100,3382,3458,553
+791,University of Central Florida,784,9,90,FALSE,14485,5552,3169,769
+792,University of Denver,545,9,117,FALSE,66725,3023,2050,53
+793,University of Greenwich,653,8,119,TRUE,80665,4799,2772,512
+794,"University of Maryland, Baltimore County",566,6,98,FALSE,70731,4782,1178,662
+795,University of Zagreb,661,7,111,TRUE,22786,4714,1860,890
+796,Università degli Studi di Perugia,644,8,105,FALSE,50706,5212,3599,45
+797,Université de Sherbrooke,559,7,113,TRUE,91903,5114,3994,441
+798,Vilnius Gediminas Technical University (VILNIUS TECH),591,9,108,FALSE,86569,5567,1261,233
+799,Worcester Polytechnic Institute,562,8,89,TRUE,112176,6896,2644,199
+800,AGH University of Science and Technology,671,8,113,TRUE,91972,7811,2555,122
+801,Karaganda Buketov University,763,7,107,FALSE,52484,5703,2031,990
+802,"Adam Mickiewicz University, Pozna_",569,6,103,TRUE,36106,7670,2115,418
+803,"Ain Shams University in Cairo (ASU, Cairo)",555,6,103,TRUE,100529,5529,2822,707
+804,Ankara Üniversitesi,529,6,99,TRUE,65557,6588,2795,206
+805,Anna University,602,6,110,TRUE,118550,5985,1774,69
+806,Auburn University,715,9,89,FALSE,112204,4888,1541,197
+807,Australian Catholic University,508,7,114,FALSE,119321,3502,1591,226
+808,Bangladesh University of Engineering and Technology,730,6,88,FALSE,62134,3200,1194,776
+809,Beijing Foreign Studies University,669,7,105,TRUE,70518,7228,3338,355
+810,Beijing Jiaotong University,713,7,120,TRUE,43559,2646,1525,587
+811,Beijing University of Chinese Medicine,595,6,116,TRUE,53997,5357,2251,955
+812,Beijing University of Posts and Telecommunications,637,6,114,TRUE,62905,3323,2742,394
+813,Beirut Arab University,531,8,112,FALSE,70307,6756,2225,600
+814,Bielefeld University,762,9,118,FALSE,102828,7165,2933,803
+815,Binghamton University SUNY,593,9,101,TRUE,117660,4587,1610,910
+816, Budapest University of Technology and Economics,612,9,109,FALSE,86735,6185,1553,72
+817,CY Cergy Paris University,778,7,104,TRUE,11364,4795,3746,747
+818,Ca' Foscari University of Venice,613,9,89,FALSE,74819,3564,1433,203
+819,Catania University,559,8,105,TRUE,77087,6613,2948,838
+820,Charles Sturt University,578,6,93,FALSE,39582,3831,3207,752
+821,Clemson University,698,9,117,TRUE,116203,4538,1959,32
+822,Corvinus University of Budapest,727,6,105,FALSE,95042,2213,3495,469
+823,Cracow University of Technology (Politechnika Krakowska),653,9,103,FALSE,50073,2370,1305,192
+824,Czech University of Life Sciences in Prague,617,6,99,FALSE,52558,6745,1582,892
+825,De La Salle University,652,6,109,FALSE,90541,3399,2934,914
+826,De Montfort University,779,6,112,TRUE,59070,7469,1197,756
+827,Edinburgh Napier University,792,9,111,TRUE,92045,3270,2541,497
+828,Financial University under the Government of the Russian Federation,691,6,112,FALSE,53738,7728,3537,679
+829,Florida International University,708,8,114,FALSE,97103,6830,3892,113
+830,Fordham University,582,8,93,FALSE,51372,7079,3470,924
+831,Gda_sk University of Technology,773,9,98,FALSE,61283,3849,3610,641
+832,George Mason University,732,8,107,FALSE,62875,7007,3210,889
+833,German Jordanian University,514,7,90,FALSE,85800,7743,2054,848
+834,Gulf University for Science and Technology,772,7,93,FALSE,63755,2134,2191,485
+835,Hacettepe University,551,9,110,TRUE,104692,3135,2385,807
+836,Harbin Engineering University,585,7,119,FALSE,43250,7858,1916,869
+837,Indiana University–Purdue University Indianapolis,565,6,101,TRUE,93304,6042,3070,235
+838,International Christian University,784,6,89,FALSE,98029,7312,3447,541
+839,Islamic University of Madinah,721,8,118,FALSE,90903,7469,2373,581
+840,Istanbul University,553,7,89,TRUE,62682,2291,1308,505
+841, Jordan University of Science & Technology,641,6,98,FALSE,64020,7570,1557,397
+842,Kansas State University,572,9,92,TRUE,69376,6217,1358,64
+843,Kasetsart University,599,6,108,FALSE,105407,2868,2113,603
+844,Kaunas University of Technology,622,7,103,FALSE,16538,4499,3248,755
+845,Kazakh Ablai Khan University of International Relations and World Languages,790,8,106,FALSE,101822,6077,1898,446
+846,Kazakh-British Technical University,628,7,111,TRUE,59148,5037,2869,400
+847,Kazan National Research Technological University,684,9,98,TRUE,52383,2262,3849,260
+848,Khon Kaen University,568,6,116,TRUE,111877,4544,1239,576
+849,King Faisal University,514,7,111,TRUE,47433,6519,3210,371
+850,King Mongkut's University of Technology Thonburi,584,7,105,TRUE,68773,5803,2544,760
+851,Kyoto Institute of Technology,601,6,91,TRUE,13430,4072,3302,123
+852,Kyushu Institute of Technology,677,6,114,FALSE,21292,2820,2240,634
+853,Liverpool John Moores University,580,7,85,FALSE,117849,3606,1520,109
+854,Lodz University of Technology,655,9,103,TRUE,80784,3385,2922,320
+855,London Metropolitan University,554,7,113,FALSE,81788,7540,3228,562
+856,London South Bank University,636,8,113,FALSE,89701,7904,2805,765
+857,Louisiana State University,573,6,89,TRUE,89420,5892,1469,111
+858,Loyola University Chicago,586,8,109,TRUE,55499,3672,1860,659
+859,Lviv Polytechnic National University,590,9,98,TRUE,79630,5126,2669,594
+860,Manchester Metropolitan University,580,7,102,FALSE,39201,7835,1394,993
+861,Mendel University in Brno,511,9,99,FALSE,109139,6574,1960,425
+862,Mendeleev University of Chemical Technology,601,9,96,TRUE,73437,6062,3732,498
+863,NJSC KIMEP University,541,7,115,FALSE,30179,3414,3557,633
+864,Nanjing University of Aeronautics and Astronautics,554,7,95,TRUE,27936,7349,3389,339
+865,National Chung Cheng University,663,9,107,TRUE,60818,2874,2422,995
+866,Nicolaus Copernicus University,541,8,88,FALSE,21310,3149,2529,906
+867,Nottingham Trent University,562,8,113,FALSE,101316,5035,1598,208
+868,Novosibirsk State Technical University,639,9,115,FALSE,98159,2403,2088,459
+869,Oklahoma State University,579,9,97,FALSE,83974,6986,2108,129
+870,Paris Lodron University of Salzburg,527,7,104,TRUE,29684,3186,2068,636
+871,"Perm State National Research University, ",516,7,115,TRUE,59857,5460,2186,142
+872,Pondicherry University,696,6,94,FALSE,12220,5728,2139,224
+873,Pontifícia Universidade Católica de São Paulo,709,9,101,TRUE,50247,2546,1321,341
+874,Poznan University of Technology,571,7,104,FALSE,103789,4699,1693,567
+875,Prince of Songkla University,746,8,90,FALSE,98267,7006,3232,47
+876,Princess Sumaya University for Technology,750,7,116,FALSE,57898,2609,3423,844
+877,Qassim University,594,9,100,FALSE,114872,2694,2747,935
+878,"Queen Margaret University , Edinburgh",706,6,88,FALSE,41033,3418,3929,373
+879,Rhodes University,702,7,105,FALSE,115688,4004,2881,723
+880,Riga Stradins University,773,7,89,FALSE,93085,5052,1258,775
+881,Robert Gordon University,534,9,94,FALSE,16343,5297,1518,115
+882,Russian Presidential Academy of National Economy and Public Administration,664,8,112,FALSE,47849,3830,2014,879
+883,Rutgers University–Newark,718,7,99,TRUE,113524,7464,3985,584
+884,Toronto Metropolitan University,785,9,107,TRUE,54519,7240,2584,828
+885,Seattle University,626,6,93,TRUE,72574,5513,2968,49
+886, Shinshu University,595,7,96,FALSE,19667,7449,3141,773
+887,Siksha ‘O’ Anusandhan (Deemed to be University) SOA,631,9,110,TRUE,86517,6192,1932,7
+888,Silesian University of Technology,640,7,103,TRUE,103272,4081,3076,474
+889, Slovak University of Technology in Bratislava,794,7,96,FALSE,10793,7193,1207,268
+890,Sophia University,666,9,114,FALSE,93335,7742,3251,164
+891,South Ural State University (National Research University),703,9,119,FALSE,45454,5050,3153,149
+892,Southern Methodist University,529,7,99,FALSE,68525,7674,3028,44
+893,MATE Hungarian University of Agriculture and Life Sciences,661,8,112,TRUE,24111,4069,1439,435
+894,Szechenyi Istvan University (University of Gyor),503,7,86,FALSE,94319,6493,1565,448
+895,TU Dortmund University,661,6,102,FALSE,106018,3082,3000,754
+896,Technical University of Kosice,566,6,93,FALSE,99643,3916,2063,837
+897,Technical University of Liberec,748,6,94,TRUE,71717,7054,3347,407
+898,Technological University Dublin,514,8,101,FALSE,83581,4956,3532,502
+899,Tecnológico de Costa Rica -TEC,651,9,101,TRUE,16318,3769,1677,317
+900,Texas Tech University,545,6,99,FALSE,96860,3379,3813,794
+901,The University of Alabama,661,7,104,FALSE,119546,3238,1145,259
+902,Tokyo University of Science,790,8,104,FALSE,60915,6198,2908,382
+903,UNIVERSITY OF GDANSK,532,9,93,TRUE,78671,7525,1032,706
+904,Universidad Autónoma Metropolitana (UAM),732,9,116,TRUE,77284,6571,1498,308
+905,Universidad Autonoma Chapingo,530,6,92,TRUE,61056,3907,3243,322
+906,Universidad Autónoma del Estado de Hidalgo (UAEH),508,7,120,FALSE,40326,4796,3150,132
+907,Universidad Autónoma del Estado de México (UAEMex),588,6,100,FALSE,26781,5042,1367,486
+908,Universidad Católica Andres Bello,734,6,96,FALSE,53690,3969,1289,258
+909,Universidad Católica del Uruguay (UCU),605,6,91,TRUE,20586,5160,1395,295
+910,Universidad Diego Portales (UDP),775,6,98,TRUE,106795,5406,1902,365
+911,Universidad EAFIT,795,9,105,TRUE,90686,4992,2247,168
+912,Universidad Nacional Mayor de San Marcos,542,8,94,TRUE,97593,2315,2123,481
+913,Universidad Nacional de Córdoba - UNC,733,7,109,FALSE,72841,5886,2474,823
+914,Universidad Nacional de Rosario (UNR),758,8,88,TRUE,33198,2743,3269,700
+915,Universidad Nacional de San Luis,646,6,117,FALSE,105723,4258,3359,403
+916, Universidad Simón Bolívar (USB),546,8,108,FALSE,10551,2654,3487,669
+917,Universidad Tecnológica Nacional (UTN),782,8,95,TRUE,76051,2966,1081,359
+918,Universidad Tecnológica de Panamá (UTP),712,7,107,TRUE,104252,7566,3306,607
+919, Universidad Técnica Federico Santa María (USM),507,9,116,FALSE,35075,2184,3584,724
+920,Universidad de Guadalajara (UDG),614,6,87,FALSE,78353,3672,2601,961
+921,Universidad de Los Andes - (ULA) Mérida,641,6,96,TRUE,79709,4473,3492,507
+922,Universidad de Oviedo,738,8,114,TRUE,79912,4438,2579,380
+923,Universidad de las Américas Puebla (UDLAP),642,8,99,FALSE,40759,4649,1543,840
+924,Universidad de los Andes - Chile,501,8,106,FALSE,112932,2621,2798,988
+925,Universidad del Valle,506,6,88,FALSE,38408,2246,3884,954
+926,Universidade Católica Portuguesa - UCP,599,6,108,FALSE,18473,5877,2408,696
+927,Universidade Federal de Pernambuco (UFPE),505,6,109,FALSE,18881,4225,3344,577
+928,Universidade Federal de Santa Catarina,725,9,85,TRUE,24885,6221,2117,934
+929,Universidade Federal de São Carlos (UFSCar),558,9,90,FALSE,23062,3292,3944,865
+930,Universidade Federal do Paraná - UFPR,732,8,117,FALSE,108787,2044,3153,689
+931,Universidade da Coruña,614,8,101,TRUE,45887,7113,3934,277
+932,Universidade de Brasília,561,8,85,TRUE,49546,5938,1396,960
+933,Universita' Politecnica delle Marche,676,9,113,FALSE,119767,2354,3902,455
+934,Universita' degli Studi di Ferrara,623,9,107,FALSE,45507,4351,1110,379
+935,Universitas Padjadjaran (UNPAD),608,7,101,TRUE,52896,5300,3382,596
+936,Universiti Kuala Lumpur (UniKL),753,7,92,TRUE,95386,2624,3038,804
+937,Universiti Malaysia Pahang,641,6,94,FALSE,115256,5363,1250,267
+938,Universiti Malaysia Perlis,639,7,119,TRUE,85965,2279,2532,393
+939,Universiti Tunku Abdul Rahman (UTAR),620,7,109,TRUE,84790,2137,2368,671
+940,University of Alicante,758,9,113,TRUE,111952,4117,3098,811
+941,University of Baghdad,534,8,96,FALSE,52781,4475,2442,60
+942,University of Bahrain,608,7,112,FALSE,73755,5074,2574,523
+943,University of Bari,755,7,106,FALSE,115184,5862,3661,697
+944,University of Brighton,574,7,93,TRUE,56560,2422,2975,294
+945,University of Calcutta,609,6,103,FALSE,53354,6880,2049,101
+946,University of Central Lancashire,679,8,102,TRUE,52527,6805,2719,947
+947,University of Dhaka,676,6,120,FALSE,101341,4324,3877,818
+948,University of East London,794,7,96,TRUE,19113,2217,1241,30
+949,University of Engineering & Technology (UET) Lahore,747,7,91,TRUE,70928,4008,2066,551
+950,University of Hartford,633,9,89,TRUE,28629,7209,3560,745
+951,University of Hertfordshire,651,8,96,TRUE,76374,3954,1823,578
+952,University of Hradec Kralove,577,8,89,FALSE,64816,6420,1827,742
+953,University of Kwazulu-Natal,606,7,89,FALSE,83927,6929,2985,456
+954,University of Lincoln,716,6,93,TRUE,17152,6250,2039,148
+955,University of Lodz,562,9,104,FALSE,110807,4401,2282,964
+956,University of Malta,553,8,115,FALSE,79738,4431,3248,405
+957,University of Maribor,594,9,97,TRUE,28021,4525,4000,245
+958,University of Messina (UniME),565,8,87,FALSE,98842,3668,2150,180
+959,University of Mississippi,772,6,118,TRUE,78570,3712,2582,309
+960,"University of Missouri, Kansas City",771,8,101,FALSE,16108,4566,1187,76
+961,University of Murcia,799,8,106,TRUE,28818,2084,3795,65
+962,University of Naples Parthenope,673,9,95,FALSE,35506,7152,2794,349
+963,University of New England Australia,601,8,99,TRUE,41861,6884,1662,863
+964, University of New Hampshire,715,9,97,TRUE,99460,4194,2398,401
+965,University of Palermo,752,8,117,FALSE,17158,2760,2454,252
+966,University of Parma,592,7,100,TRUE,58435,5093,2026,420
+967,University of Patras,582,6,99,TRUE,118673,4958,3372,43
+968,University of Salerno,760,7,104,FALSE,74251,2542,1912,589
+969,University of Salford,503,8,105,FALSE,68556,2769,1572,438
+970,University of Santo Tomas,505,8,112,TRUE,68157,6977,2650,678
+971,University of Seoul,756,7,118,TRUE,64134,4917,1968,225
+972,University of Texas at San Antonio,785,8,97,FALSE,91932,2958,3217,29
+973, University of Tulsa,580,9,96,TRUE,96938,2165,996,18
+974,University of Tyumen,786,9,111,TRUE,36470,6505,3983,494
+975,University of Wisconsin Milwaukee,539,8,96,TRUE,18168,5877,1199,404
+976,University of Wroclaw,675,7,120,TRUE,67035,7401,3705,274
+977,University of Wyoming,600,8,103,TRUE,53651,5766,1364,248
+978,University of the Punjab,658,6,91,TRUE,29053,5073,3500,436
+979,University of the West of England,695,8,115,TRUE,32537,3659,3102,296
+980,University of Zilina,638,9,119,FALSE,114358,7059,3511,557
+981, Università degli Studi di Udine,605,7,89,TRUE,76677,6214,3759,713
+982,Università degli studi Roma Tre,631,6,113,TRUE,83126,7544,3189,598
+983,Universität Duisburg-Essen,737,8,97,FALSE,25584,6304,3906,994
+984,Université Toulouse 1 Capitole,719,9,111,TRUE,73715,3613,1626,304
+985,Université de Lille,623,9,85,FALSE,79437,2195,3995,989
+986,Université de Lorraine,627,9,92,FALSE,110225,2550,1483,503
+987,Nantes University,651,8,113,FALSE,109133,2775,1328,6
+988,Université de Rennes 1,758,7,113,FALSE,67563,7296,3647,770
+989,Verona University,522,8,86,TRUE,80902,3453,3735,919
+990,Viet Nam National University Ho Chi Minh City (VNU-HCM),572,6,117,FALSE,39441,3441,3488,958
+991,"Vietnam National University, Hanoi",613,7,85,FALSE,37355,2318,3624,901
+992,Vytautas Magnus University,567,7,89,TRUE,30059,5158,2031,941
+993, West Virginia University,615,6,108,FALSE,103936,7324,1838,903
+994, Wroclaw University of Science and Technology (WRUST),784,7,112,FALSE,27235,7348,3411,378
+995,Wuhan University of Technology,542,9,88,FALSE,109035,6662,3680,329
+996,Xi'an Jiaotong Liverpool University,793,9,85,FALSE,71084,3237,1698,160
+997,Yamaguchi University,551,9,94,FALSE,88678,7518,1221,690
+998,Yerevan State University,668,9,117,TRUE,25846,4241,1285,151
+999, Yeungnam University,598,7,117,TRUE,108683,6623,1625,692
+1000, Yokohama National University,533,9,95,FALSE,35913,2651,2049,493
